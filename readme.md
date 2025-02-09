@@ -8,8 +8,8 @@ Each project is contained in its own directory under the `projects/` folder.
 ## Projects List
 
 ### Beginner Projects
-- ✅ [Server Performance Stats]
-- ✅ [Log Archive Tool]
+- ✅ [Server Performance Stats](https://roadmap.sh/projects/server-stats)
+- ✅ [Log Archive Tool](https://roadmap.sh/projects/log-archive-tool)
 - ✅ [Nginx Log Analyser](https://roadmap.sh/projects/nginx-log-analyser)
 - GitHub Pages Deployment
 - SSH Remote Server Setup
