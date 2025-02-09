@@ -1,5 +1,7 @@
 # Nginx Log Analysis Script
 
+from: https://roadmap.sh/projects/nginx-log-analyser
+
 This is a simple Bash script designed to analyze an Nginx access log file and extract useful insights such as the most active IP addresses, most requested paths, response status codes, and user agents. This script helps to quickly assess traffic patterns and potential issues in a web server.
 
 ## Features
