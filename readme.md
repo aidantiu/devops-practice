@@ -13,7 +13,7 @@ Each project is contained in its own directory under the `projects/` folder.
 - ✅ [Nginx Log Analyser](https://roadmap.sh/projects/nginx-log-analyser)
 - ✅ [GitHub Pages Deployment](https://roadmap.sh/projects/github-actions-deployment-workflow)
 - ✅ [SSH Remote Server Setup](https://roadmap.sh/projects/ssh-remote-server-setup)
-- ✅ [Static Site Server](https://github.com/aidantiu/devops-practice)
+- ✅ [Static Site Server](https://roadmap.sh/projects/static-site-server)
 - Basic DNS Setup
 - Simple Monitoring
 - Dummy Systemd Service
