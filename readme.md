@@ -11,7 +11,7 @@ Each project is contained in its own directory under the `projects/` folder.
 - ✅ [Server Performance Stats](https://roadmap.sh/projects/server-stats)
 - ✅ [Log Archive Tool](https://roadmap.sh/projects/log-archive-tool)
 - ✅ [Nginx Log Analyser](https://roadmap.sh/projects/nginx-log-analyser)
-- GitHub Pages Deployment
+- ✅ [GitHub Pages Deployment](https://roadmap.sh/projects/github-actions-deployment-workflow)
 - ✅ [SSH Remote Server Setup](https://roadmap.sh/projects/ssh-remote-server-setup)
 - Static Site Server
 - Basic DNS Setup
