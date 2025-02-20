@@ -15,7 +15,7 @@ Each project is contained in its own directory under the `projects/` folder.
 - ✅ [SSH Remote Server Setup](https://roadmap.sh/projects/ssh-remote-server-setup)
 - ✅ [Static Site Server](https://roadmap.sh/projects/static-site-server)
 - Basic DNS Setup
-- Simple Monitoring
+- ✅ [Simple Monitoring](https://roadmap.sh/projects/simple-monitoring-dashboard)
 - Dummy Systemd Service
 - Basic Dockerfile
 - EC2 Instance
