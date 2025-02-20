@@ -1,0 +1,3 @@
+[submodule "gh-deployment-workflow"]
+	path = gh-deployment-workflow
+	url = https://github.com/aidantiu/gh-deployment-workflow
