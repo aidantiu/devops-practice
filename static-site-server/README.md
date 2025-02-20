@@ -1,5 +1,7 @@
 # Deploying a Static Site with Nginx and Rsync
 
+from: https://roadmap.sh/projects/static-site-server
+
 This guide explains how to set up and deploy a static website using **Nginx** and **rsync**. The deployment script automates the process of syncing local files to a remote server and restarting Nginx.
 
 ## Features
