@@ -16,7 +16,7 @@ Each project is contained in its own directory under the `projects/` folder.
 - ✅ [Static Site Server](https://roadmap.sh/projects/static-site-server)
 - Basic DNS Setup
 - ✅ [Simple Monitoring](https://roadmap.sh/projects/simple-monitoring-dashboard)
-- Dummy Systemd Service
+- ✅[Dummy Systemd Service](https://roadmap.sh/projects/dummy-systemd-service/solutions)
 - Basic Dockerfile
 - EC2 Instance
 
