@@ -1,0 +1,13 @@
+[Unit]
+Description=Dummy service which prints simple message to log file every 10 seconds.
+After=network.target
+
+[Service]
+ExecStart=/Documents/Coding Projects/devops-practice/dummy-systemd-service/dummy.sh
+Restart=always
+User=ymnwri
+StandardOutput=append:/Documents/Coding Projects/devops-practice/dummy-systemd-service/dummy-service.log
+StandardError=append:/Documents/Coding Projects/devops-practice/dummy-systemd-service/dummy-service.log
+
+[Install]
+WantedBy=multi-user.target
